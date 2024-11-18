@@ -1,1 +1,1 @@
-#Reddit Autometion Testing
+Reddit Autometion Testing
